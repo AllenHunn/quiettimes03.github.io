@@ -6,7 +6,7 @@ short-description: BlocJams is a Spotify replica for playing great music.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![](/img/blocjams.png)
 
 ##About the project
 Music. In today's age, we can take it anywhere with us. BlocJams is the first music player/ project I've tackled as a full stack engineer. It is essentially like Amazon's music site with the choice of albums, music, and can even play music! The BlocJams project was created by Bloc, the leading online coding school, and with the course instructions plus the guidance of my mentor, Allen Hunn, I was able to ace it.
